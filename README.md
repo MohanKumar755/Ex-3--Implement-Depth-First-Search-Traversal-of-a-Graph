@@ -71,12 +71,13 @@ DFS Traversal Path: ['A', 'B', 'D', 'E', 'C']
 
 ### Input:
 
-C:\Users\Kishore\OneDrive\Pictures\Screenshots\Screenshot 2025-09-10 144101.png
+<img width="1292" height="227" alt="Screenshot 2025-09-12 144429" src="https://github.com/user-attachments/assets/3baa41a3-3b2f-45ac-9c26-3e6729c2e7ec" />
+
 
 
 ### Output:
 
-C:\Users\Kishore\OneDrive\Pictures\Screenshots\Screenshot 2025-09-10 144112.png
+<img width="1219" height="65" alt="Screenshot 2025-09-12 144440" src="https://github.com/user-attachments/assets/952f0a79-37ad-4f69-9260-26df0535d7d8" />
 
 **Result:**
 Thus, The program is executed as successfully.
