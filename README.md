@@ -1,8 +1,8 @@
 # Ex-3-Implement-Depth-First-Search-Traversal-of-a-Graph
 
-**Name:** KISHORE M
+*Name:* Mohankumar
 
-**Register Number:** 2305002012
+*Register Number:* 2305002014
 
 ### Aim:
 To Implement Depth First Search Traversal of a Graph using Python 3.
@@ -29,7 +29,7 @@ Step 5:If Not Visited, add it to the STACK. Else Call The Function Again Until N
 
 
 ### Program:
-```
+
 from collections import defaultdict
 def dfs(graph, start, visited, path):
     path.append(start)
@@ -52,7 +52,7 @@ visited = defaultdict(bool)
 path = []
 traversed_path = dfs(graph, start, visited, path)
 print("DFS Traversal Path:", traversed_path)
-```
+
 
 ### Sample Input:
 A B
@@ -79,5 +79,5 @@ DFS Traversal Path: ['A', 'B', 'D', 'E', 'C']
 
 <img width="1219" height="65" alt="Screenshot 2025-09-12 144440" src="https://github.com/user-attachments/assets/952f0a79-37ad-4f69-9260-26df0535d7d8" />
 
-**Result:**
+*Result:*
 Thus, The program is executed as successfully.
